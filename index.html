@@ -4,24 +4,31 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="./css/reset.css">
-	<link rel="stylesheet" href="./assets/css/style.css">
+	<link rel="stylesheet" href="./css/style.css">
    <title>Chuck Norris Image Search</title>
 </head>
 <body>
    <div class="container">
       <header>
-          <h1>Chuck Norris Image Search</h1>
+         <h1>Chuck Norris Image Search</h1>
       </header>
       <div class="top-section">
             <div class="search-section">
-                <input type="text" id="search-input" placeholder="Search for images">
-                <button id="search-button" onclick="searchImages()">Search</button>
+               <input type="text" id="search-input" placeholder="Search for images">
+               <button id="search-button" onclick="search()">Search</button>
             </div>
             <div class="history-section">
                <ul id="history-list"></ul>
             </div>
       </div>
+      <div class="modal">
+         <div class="modal-content">
+            <button class="close" onclick="closeModal()">X</button>
+            <p id="chuckText"></p>
+            <img id="searchedImage">
+         </div>
+      </div>
    </div>
-   <script src= "./assets/js/script.js"></script>
+   <script src= "./js/script.js"></script>
 </body>
 </html>
