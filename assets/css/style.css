@@ -65,6 +65,17 @@ h1 {
     background-color: rgb(37, 8, 227);
 }
 
+#clear-history-button {
+    padding: 10px 15px;
+    background: rgb(238, 74, 74);
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1.2em;
+    border: 2px solid black;
+}
+
 .modal {
     display: none;
     position: fixed;
