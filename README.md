@@ -1,4 +1,4 @@
-##Chuck Norris Image App
+Chuck Norris Image App
 
 Description:
 This is the app we decided to make for our first bootcamp project. It is an app that allows you to search for an image and get a Chuck Norris joke with it.
