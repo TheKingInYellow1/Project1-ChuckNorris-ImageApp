@@ -6,7 +6,9 @@ We have used two different APIs for this Project. The https://api.chucknorris.io
 
 Concept:
 This app allows you to search images and get a complimentary Chuck Norris joke to go with it. 
-The reason for making this app is, because searching for images on the internet is too boring and sometimes you need to spice it up with a unrelated Chuck Norris joke. 
+The reason for making this app is, because searching for images on the internet is too boring and sometimes you need to spice it up with a unrelated Chuck Norris joke.
+
+User Story:
 AS A chuck norris and random image aficionado
 I WANT to have an easy to use website to view those together
 SO THAT i can create random and funny collaborations of the two
