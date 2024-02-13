@@ -20,7 +20,7 @@ Links:
 https://thekinginyellow1.github.io/Project1-ChuckNorris-ImageApp/ 
 https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp
 
-Screenshots shows to functionality of the App:
+Screenshots shows to functionality the the App:
 ![Screenshot 2024-02-12 211943](https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp/assets/153140956/21c674c6-34db-459d-8335-535c92556d3a)
 ![Screenshot 2024-02-12 212014](https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp/assets/153140956/621dea3e-54ac-4689-b73f-177a0dab9095)
 ![Screenshot 2024-02-12 212035](https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp/assets/153140956/b79f2148-eebc-4977-9332-50cbc3def52a)
