@@ -64,7 +64,7 @@ function loadHistory() {
 
     let history = getHistory();
     let recentSearches = history.slice(-5);
-    history.forEach(searchTerm => {
+    recentSearches.forEach(searchTerm => {
         let listItem = document.createElement('li');
         listItem.textContent = searchTerm;
         listItem.addEventListener('click', () => {
