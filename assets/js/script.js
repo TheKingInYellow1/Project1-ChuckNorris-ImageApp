@@ -63,6 +63,7 @@ function loadHistory() {
     historyList.innerHTML = '';
 
     let history = getHistory();
+    let recentSearches = history.slice(-5);
     history.forEach(searchTerm => {
         let listItem = document.createElement('li');
         listItem.textContent = searchTerm;
@@ -79,7 +80,13 @@ function closeModal() {
 }
 
 function search() {
-   document.querySelector('.modal').style.display = 'block';
-   getJoke();
-   getImage();
+   const searchInput = document.getElementById('search-input');
+   const searchTerm = searchInput.value.trim();
+
+   if (searchTerm) {
+       saveToHistory(searchTerm);
+       document.querySelector('.modal').style.display = 'block';
+       getJoke();
+       getImage();
+   }
 }
