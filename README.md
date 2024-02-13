@@ -14,6 +14,10 @@ SO THAT i can create random and funny collaborations of the two
 Technologies Used:
 HTML, css, Javascript and APIs.
 
+Links:
+https://thekinginyellow1.github.io/Project1-ChuckNorris-ImageApp/ 
+https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp
+
 Screenshots shows to functionality of the App:
 ![Screenshot 2024-02-12 211943](https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp/assets/153140956/21c674c6-34db-459d-8335-535c92556d3a)
 ![Screenshot 2024-02-12 212014](https://github.com/TheKingInYellow1/Project1-ChuckNorris-ImageApp/assets/153140956/621dea3e-54ac-4689-b73f-177a0dab9095)
