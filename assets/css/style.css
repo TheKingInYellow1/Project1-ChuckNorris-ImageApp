@@ -97,6 +97,7 @@ h1 {
     text-align: center;
     width: 80%;
     border-radius: 30px;
+    color: aliceblue;
 }
 
 .modal-content p {
@@ -145,4 +146,14 @@ h1 {
 #history-list li:hover {
     background: linear-gradient(45deg, #5e35b1 0%, #4527a0 100%);
     transform: scale(1.05);
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+    background: url('https://source.unsplash.com/1920x1080/?abstract') fixed;
+    color: #333;
+    background-size: cover;
+    background-position: center;
 }
